@@ -121,6 +121,5 @@ x smart : temperature threshold
 
 ## Related
 
-- [Back to x-cmd Skill](../../SKILL.md)
 - [x-cmd smart module](https://x-cmd.com/mod/smart)
 - [smartmontools.com](https://www.smartmontools.org/)
